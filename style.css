@@ -1,0 +1,20 @@
+#jumboDeadPoolBanner {
+  background-image: url(https://www.hdwallpapers.net/previews/low-poly-deadpool-982.jpg);
+  background-size: cover;
+  background-position: right;
+}
+
+#jumboBannerText {
+  color: white;
+}
+
+#dpBanner {
+  background-image: url(https://u01.appmifile.com/images/2017/06/26/48b7e8c3-355d-40e3-8ee6-8b93ef13b6e7.jpg);
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+body {
+  font-family: 'Anton', sans-serif;
+}
